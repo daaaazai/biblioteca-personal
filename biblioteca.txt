@@ -1,0 +1,18 @@
+Nombre del libro: Creepusculo
+Autor: Stephenie Meyer
+Género: Ficción, Misterio
+Editorial: Editorial Panamericana
+ISBN: 123456789
+Tipo de libro: coleccion
+Descripción: :)
+
+
+Nombre del libro: el gato negro
+Autor: edgar allan poe
+Género: Ficción, Misterio
+Editorial: Editorial Panamericana
+ISBN: 123456789
+Tipo de libro: coleccion
+Descripción: :)
+
+
